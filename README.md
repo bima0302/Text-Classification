@@ -10,7 +10,7 @@
 * The accuracy of the model is at least 75% on the train set and validation set.
 
 ### Model Accuracy
-![](model_accuracy.png)
+![](ModelAccuracy.png)
 
 ### Libraries used (python)
 ```
