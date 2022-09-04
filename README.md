@@ -9,14 +9,14 @@
 * Must use tokenizer function.
 * The accuracy of the model is at least 75% on the train set and validation set.
 
-### Model Accuracy
+## Dataset
+I'm using a dataset from [Kaggle](https://www.kaggle.com/atulanandjha/imdb-50k-movie-reviews-test-your-bert) and put it into my Google Drive to make it easier to process.
+
+## Model Accuracy
 ![](ModelAccuracy.png)
 
-### Libraries used (python)
+## Libraries used (python)
 ```
 TensorFlow
 Matplotlib
 ``` 
-
-### Dataset
-I'm using a dataset from [Kaggle](https://www.kaggle.com/atulanandjha/imdb-50k-movie-reviews-test-your-bert) and put it into my Google Drive to make it easier to process.
